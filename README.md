@@ -2,7 +2,7 @@
 
 Welcome to my **TypeScript training repository**! This repo documents my journey of learning TypeScript through daily exercises, practice problems, and real-world usage examples.
 
-![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
+![TypeScript Logo](https://miro.medium.com/v2/resize:fit:1400/1*XrBl31sgJTDys9rNqd-nyg.jpeg)
 
 ---
 
